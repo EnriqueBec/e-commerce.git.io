@@ -1,0 +1,123 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #e6f0ff, #ffffff);
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .payment-container {
+    display: flex;
+    background: #fff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    max-width: 900px;
+    width: 100%;
+  }
+  
+  .form-left {
+    flex: 1;
+    margin-right: 40px;
+  }
+  
+  .form-left h2 {
+    color: #003399;
+    margin-bottom: 20px;
+  }
+  
+  .form-left h2 span {
+    color: #666;
+  }
+  
+  .timer {
+    font-size: 1.5em;
+    background-color: #002266;
+    color: white;
+    display: inline-block;
+    padding: 5px 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 1em;
+  }
+  
+  .expiry {
+    display: flex;
+    align-items: center;
+  }
+  
+  .expiry input {
+    width: 50px;
+    text-align: center;
+    margin-right: 5px;
+  }
+  
+  .expiry span {
+    margin: 0 5px;
+  }
+  
+  button {
+    background-color: #0066ff;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .summary-right {
+    width: 300px;
+    background: #f5f7fa;
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .card-preview {
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .card-preview p {
+    margin: 5px 0;
+  }
+  
+  .details p {
+    margin: 10px 0;
+    font-size: 0.95em;
+  }
+  
+  .total {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  .total span {
+    font-size: 0.9em;
+    color: #666;
+  }
+  

@@ -1,0 +1,192 @@
+[
+    {
+      "id": "1234067",
+      "titulo": "Mini Falda Tejido En Combinación Azul Y Blanco Botones Dorados",
+      "imagen": "../img/faldas/falda2.avif",
+      "categoria": { "nombre": "Faldas", "id": "faldas" },
+      "precio": 699.99
+    },
+    {
+      "id": "45674349",
+      "titulo": "Blazer Azul Marino Cruce Asimétrico Botones Dorados",
+      "imagen": "../img/sacos/saco4.avif",
+      "categoria": { "nombre": "Blazer", "id": "blazer" },
+      "precio": 1199.99
+    },
+    {
+      "id": "8765062",
+      "titulo": "Pantalón Negro Recto Fluido Tiro Alto Raya Diplomática",
+      "imagen": "../img/pantalones/pantalon6.avif",
+      "categoria": { "nombre": "Pantalones", "id": "pantalones" },
+      "precio": 899.99
+    },
+    {
+      "id": "23450512",
+      "titulo": "Blusa Blanca Tipo Camiseta Manga Escarola Bordada ",
+      "imagen": "../img/blusas/blusa2.avif",
+      "categoria": { "nombre": "Blusas", "id": "blusas" },
+      "precio": 749.99
+    },
+    {
+      "id": "9876543",
+      "titulo": "Vestido Envolvente De Lino Arena Drapeado Cuello Camisero",
+      "imagen": "../img/vestidos/vestido3.avif",
+      "categoria": { "nombre": "Vestidos", "id": "vestidos" },
+      "precio": 1499.99
+    },
+    {
+      "id": "2349127",
+      "titulo": "Suéter Tejido A Rayas Escote Barco Manga 3/4",
+      "imagen": "../img/blusas/blusa4.avif",
+      "categoria": { "nombre": "Blusas", "id": "blusas" },
+      "precio": 849.99
+    },
+    {
+      "id": "2340988",
+      "titulo": "Blusa Azul Claro Cenefa Bordada Escote V",
+      "imagen": "../img/blusas/blusa5.avif",
+      "categoria": { "nombre": "Blusas", "id": "blusas" },
+      "precio": 929.99
+    },
+    {
+      "id": "1234550",
+      "titulo": "Falda Lápiz De Punto A Rayas",
+      "imagen": "../img/faldas/falda5.avif",
+      "categoria": { "nombre": "Faldas", "id": "faldas" },
+      "precio": 809.99
+    },
+    {
+      "id": "8765639",
+      "titulo": "Pantalón Recto Fluido Tiro Alto Con Cinturón Crema",
+      "imagen": "../img/pantalones/pantalon4.avif",
+      "categoria": { "nombre": "Pantalones", "id": "pantalones" },
+      "precio": 1229.99
+    },
+    {
+      "id": "4567891",
+      "titulo": "Blazer  Corto Amarillo Corte Francés Botones Dorados",
+      "imagen": "../img/sacos/saco1.avif",
+      "categoria": { "nombre": "Blazer", "id": "blazer" },
+      "precio": 1499.99
+    },
+    {
+      "id": "2347381",
+      "titulo": "Blusa Blanca De Satín Texturizados Envolvente Botones Dorados",
+      "imagen": "../img/blusas/blusa6.avif",
+      "categoria": { "nombre": "Blusas", "id": "blusas" },
+      "precio": 989.99
+    },
+    {
+      "id": "1234678",
+      "titulo": "Falda Midi Envolvente De Satín Estampado Lunares",
+      "imagen": "../img/faldas/falda4.avif",
+      "categoria": { "nombre": "Faldas", "id": "faldas" },
+      "precio": 749.99
+    },
+    {
+      "id": "8765432",
+      "titulo": "Pantalón Culotte Tiro Alto Blanco Botones Dorados",
+      "imagen": "../img/pantalones/pantalon1.avif",
+      "categoria": { "nombre": "Pantalones", "id": "pantalones" },
+      "precio": 1229.99
+    },
+    {
+      "id": "4567841",
+      "titulo": "Blazer Off White Sin Solapa Corte Frances Con Cierre",
+      "imagen": "../img/sacos/saco3.avif",
+      "categoria": { "nombre": "Blazer", "id": "blazer" },
+      "precio": 1599.99
+    },
+    {
+      "id": "9876043",
+      "titulo": "Maxi Vestido Arena A Rayas Talle Enresortado",
+      "imagen": "../img/vestidos/vestido2.avif",
+      "categoria": { "nombre": "Vestidos", "id": "vestidos" },
+      "precio": 1399.99
+    },
+    {
+      "id": "1234567",
+      "titulo": "Falda Short Azul Celeste De Tweed",
+      "imagen": "../img/faldas/falda1.avif",
+      "categoria": { "nombre": "Faldas", "id": "faldas" },
+      "precio": 749.99
+    },
+    {
+      "id": "9879286",
+      "titulo": "Vestido Halter Fit And Flare Maxi Lunares Tableado",
+      "imagen": "../img/vestidos/vestido5.avif",
+      "categoria": { "nombre": "Vestidos", "id": "vestidos" },
+      "precio": 1699.99
+    },
+    {
+      "id": "2345205",
+      "titulo": "Blusa Escote V Cuello Camisero Amarillo Mostaza",
+      "imagen": "../img/blusas/blusa3.avif",
+      "categoria": { "nombre": "Blusas", "id": "blusas" },
+      "precio": 699.99
+    },
+    {
+      "id": "9876593",
+      "titulo": "Vestido Camisero Midi A Rayas Efecto Corrugado Con Cinturón",
+      "imagen": "../img/vestidos/vestido1.avif",
+      "categoria": { "nombre": "Vestidos", "id": "vestidos" },
+      "precio": 1249.99
+    },
+    {
+      "id": "2344828",
+      "titulo": "Blusa De Satín Roja Escote V Jaretas Metálicas",
+      "imagen": "../img/blusas/blusa7.avif",
+      "categoria": { "nombre": "Blusas", "id": "blusas" },
+      "precio": 799.99
+    },
+    {
+      "id": "4567391",
+      "titulo": "Blazer De Satín Corte Francés Champagne",
+      "imagen": "../img/sacos/saco2.avif",
+      "categoria": { "nombre": "Blazer", "id": "blazer" },
+      "precio": 1099.99
+    },
+    {
+      "id": "8765032",
+      "titulo": "Pantalón Recto Tiro Alto De Jacquard Azul Con Stretch",
+      "imagen": "../img/pantalones/pantalon2.avif",
+      "categoria": { "nombre": "Pantalones", "id": "pantalones" },
+      "precio": 1049.99
+    },
+    {
+      "id": "9874237",
+      "titulo": "Vestido Camisero Midi Estampado A Rayas",
+      "imagen": "../img/vestidos/vestido4.avif",
+      "categoria": { "nombre": "Vestidos", "id": "vestidos" },
+      "precio": 1319.99
+    },
+    {
+      "id": "8765943",
+      "titulo": "Pantalón Recto Tiro Alto Pretina Con Cinturón Verde Militar",
+      "imagen": "../img/pantalones/pantalon5.avif",
+      "categoria": { "nombre": "Pantalones", "id": "pantalones" },
+      "precio": 798.99
+    },
+    {
+      "id": "8765482",
+      "titulo": "Pantalón Negro Recto Tejido De Punto",
+      "imagen": "../img/pantalones/pantalon3.avif",
+      "categoria": { "nombre": "Pantalones", "id": "pantalones" },
+      "precio": 1199.99
+    },
+    {
+      "id": "2345502",
+      "titulo": "Blusa Corta Estampado Floral Escote Corazón",
+      "imagen": "../img/blusas/blusa1.avif",
+      "categoria": { "nombre": "Blusas", "id": "blusas" },
+      "precio": 719.99
+    },
+    {
+      "id": "1234517",
+      "titulo": "Mini Falda Roja De Tweed A Cuadros Con Cadena",
+      "imagen": "../img/faldas/falda3.avif",
+      "categoria": { "nombre": "Faldas", "id": "faldas" },
+      "precio": 689.99
+    }
+  ]
+  

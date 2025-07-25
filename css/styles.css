@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+    background: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.bi{
+    font-size: 25px;
+    color: black;
+}
+
+
+.hero img {
+    width: 100%;
+    height: 40%;
+}
+
+.new-arrivals {
+    padding: 40px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.product img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.product img:hover {
+    transform: scale(1.1);
+}
+
+.collection {
+    background: url('collection.jpg') no-repeat center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.collection-content h2 {
+    font-size: 40px;
+    color: white;
+}
+
+.collection-content button {
+    padding: 10px 20px;
+    background: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.twice-as-cozy {
+    padding: 40px;
+}
+
+.cozy-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.cozy-images img {
+    width: 200px;
+    border-radius: 8px;
+}
+
+footer {
+    background: #f8f8f8;
+    padding: 30px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+
+.footer-bottom {
+    font-size: 12px;
+    color: gray;
+}

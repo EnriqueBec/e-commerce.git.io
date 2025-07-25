@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0% 5%;
+    background-color: white;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    padding: 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.nav-icons img {
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.prin{
+    background-image: url("../img/contacto.jpg");
+    padding: 4%;
+    margin: 20PX 0;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.prin p{
+    color: white;
+    font-size: 20px ;
+    text-align: center;
+}
+
+.prin h2{
+    color: white;
+    font-size: 30px;
+}
+
+
+.cont1{
+    background-color: #f2f2f2;
+    grid-template-columns: 1fr 1fr;
+}
+
+.containers {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-gap: 20px; 
+    margin-top: 30px;
+}
+
+.cont1, .cont2, .cont3, .cont4 {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.cont1:hover, .cont2:hover, .cont3:hover, .cont4:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.mision, .vision, .fil, .val {
+    font-weight: bold;
+    color: #333;
+}
+
+.txtmision, .txtvision, .txtfilo, .txtval {
+    font-size: 16px;
+    color: #555;
+}
+
+iframe {
+    margin-top: 30px;
+    width: 100%;
+    height: 450px;
+    border: 0;
+}
