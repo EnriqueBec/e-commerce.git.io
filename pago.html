@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PAGO</title>
+  <link rel="stylesheet" href="css/pago.css" />
+</head>
+<body>
+  <div class="payment-container">
+    <form class="form-left">
+      <h2>Eternal<span>Boutique</span></h2>
+      <div class="timer">Ingresar Tarjeta</div>
+
+      <label>Número de Tarjeta</label>
+      <input type="text" placeholder="2412 7512 3412 3456" maxlength="19" required />
+
+      <label>Número CVV</label>
+      <input type="text" placeholder="327" maxlength="4" required />
+
+      <label>Fecha de Expiración</label>
+      <div class="expiry">
+        <input type="text" placeholder="MM" maxlength="2" required />
+        <span>/</span>
+        <input type="text" placeholder="AA" maxlength="2" required />
+      </div>
+
+      <button type="submit" >Pagar Ahora</button>
+      <button type="button" onclick="window.location.href='carrito.html'" style="margin-top: 10px; background-color: #ccc; color: #000;">
+        Regresar al Carrito
+      </button>
+    </form>
+
+    <div class="summary-right">
+      <div class="card-preview">
+        <p>Enrique</p>
+        <p>•••• 3456</p>
+        <p>09/22</p>
+      </div>
+      <div class="details">
+        <p><strong>Empresa:</strong> Eternal Boutique</p>
+        <p><strong>Número de Orden:</strong> 1266201</p>
+        <p><strong>Producto:</strong>Ropa</p>
+        <hr />
+        <p class="total">
+            <strong>Total a Pagar:</strong> <span id="total-pago">$0.00</span> <span>MX</span>
+          </p>
+      </div>
+    </div>
+  </div>
+  <script src="js/pago.js"></script>
+</body>
+</html>
